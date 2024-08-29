@@ -3,7 +3,7 @@
 ## Steps to run the script
 
 #### 1. Ensure python is installed. If not, install it from:
-    https://www.python.org/downloads/
+    git clone https://www.python.org/downloads/
 
 #### 2. Clone the git repo
     https://github.com/akshitasuthar29/System-Log-parser.git
